@@ -1,0 +1,29 @@
+Build started at 2023-05-28T16:56:00.633895
+Main binary: /usr/bin/python3
+Build Options: -Dbackend=ninja
+Python system: Linux
+The Meson build system
+Version: 0.56.2
+Source dir: /data/main/projects/native-common
+Build dir: /data/main/projects/native-common/build
+Build type: native build
+Project name: native-common
+Project version: 0.0.1
+D compiler for the host machine: gdc (gcc 10.2.1-6 "gdc (Debian 10.2.1-6) 10.2.1 20210110")
+D linker for the host machine: gdc ld.bfd 2.35.2
+None of 'AR' are defined in the environment, not changing global flags.
+D compiler for the build machine: gdc (gcc 10.2.1-6 "gdc (Debian 10.2.1-6) 10.2.1 20210110")
+D linker for the build machine: gdc ld.bfd 2.35.2
+None of 'AR' are defined in the environment, not changing global flags.
+Build machine cpu family: aarch64
+Build machine cpu: aarch64
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Target machine cpu family: aarch64
+Target machine cpu: aarch64
+Adding test "librarytest"
+Build targets in project: 2
+
+Found ninja-1.10.1 at /usr/bin/ninja
+None of 'STRIP' are defined in the environment, not changing global flags.
+None of 'STRIP' are defined in the environment, not changing global flags.
